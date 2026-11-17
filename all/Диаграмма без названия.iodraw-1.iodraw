@@ -52,9 +52,9 @@
         <mxCell id="LAM_K6-9eY2BU3Yjicjk-14" value="id_cart - PK&lt;div&gt;id_client - FK&lt;/div&gt;&lt;div&gt;sale&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="LAM_K6-9eY2BU3Yjicjk-13">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LAM_K6-9eY2BU3Yjicjk-15" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.013;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="LAM_K6-9eY2BU3Yjicjk-1" target="LAM_K6-9eY2BU3Yjicjk-3">
+        <mxCell id="LAM_K6-9eY2BU3Yjicjk-15" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=1.013;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="LAM_K6-9eY2BU3Yjicjk-3">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="350" y="320" as="sourcePoint" />
+            <mxPoint x="334" y="170" as="sourcePoint" />
             <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -70,7 +70,7 @@
             <mxPoint x="520" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LAM_K6-9eY2BU3Yjicjk-18" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERzeroToMany;rounded=0;entryX=1.019;entryY=0.175;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryPerimeter=0;" edge="1" parent="1" target="LAM_K6-9eY2BU3Yjicjk-8">
+        <mxCell id="LAM_K6-9eY2BU3Yjicjk-18" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERzeroToMany;rounded=0;entryX=1.019;entryY=0.175;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="LAM_K6-9eY2BU3Yjicjk-6" target="LAM_K6-9eY2BU3Yjicjk-8">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="550" y="380" as="sourcePoint" />
             <mxPoint x="513.0219999999999" y="444.03999999999996" as="targetPoint" />
