@@ -28,7 +28,7 @@
         <mxCell id="LAM_K6-9eY2BU3Yjicjk-8" value="id_dish - PK&lt;div&gt;id_food - FK&lt;/div&gt;&lt;div&gt;name&lt;/div&gt;&lt;div&gt;ingridient&lt;/div&gt;&lt;div&gt;price_food&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="LAM_K6-9eY2BU3Yjicjk-7">
           <mxGeometry y="50" width="162" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LAM_K6-9eY2BU3Yjicjk-9" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LAM_K6-9eY2BU3Yjicjk-9" value="client" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="440" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LAM_K6-9eY2BU3Yjicjk-10" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="LAM_K6-9eY2BU3Yjicjk-9">
