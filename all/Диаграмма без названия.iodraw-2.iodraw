@@ -17,9 +17,15 @@
           <mxGeometry y="50" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zMFklejWSwb1xeuPOrXb-5" value="oblasty" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="400" width="160" height="120" as="geometry" />
+          <mxGeometry x="295" y="400" width="165" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zMFklejWSwb1xeuPOrXb-6" value="id_oblasty - PK&lt;div&gt;id_regoin - FK&lt;/div&gt;&lt;div&gt;adm_city&lt;/div&gt;&lt;div&gt;name&lt;/div&gt;&lt;div&gt;people&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="zMFklejWSwb1xeuPOrXb-5">
+          <mxGeometry y="50" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zMFklejWSwb1xeuPOrXb-7" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="585" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zMFklejWSwb1xeuPOrXb-8" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="zMFklejWSwb1xeuPOrXb-7">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
